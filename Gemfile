@@ -39,4 +39,5 @@ gem "kramdown-parser-gfm"
 # make sure correct version of http-parser
 gem 'http_parser.rb', '~> 0.8.0'
 gem 'jekyll-sass-converter', '~> 1.5', '>= 1.5.2'
+gem 'jekyll-theme-cayman', '~> 0.2.0'
 
