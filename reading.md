@@ -28,8 +28,8 @@ Luster by Raven Leilani
 - [ ] A mercy
 
 ### Octavia Butler
-- [x] The Parable of the Sower
-- [x] The Parable of the Talents
+- [x] Parable of the Sower
+- [x] Parable of the Talents
 - [x] Dawn
 - [x] Adulthood Rites
 - [x] Kindred
