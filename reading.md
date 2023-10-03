@@ -14,6 +14,9 @@ Born to Run by Christopher McDougall
 Recently:
 Luster by Raven Leilani
 
+
+I am on a lifelong journey to read the entirety of works written by Toni Morrison and Octavia Butler. Please let me know if I am missing anything in these lists. 
+
 ### Toni Morrison
 - [x] The Bluest Eye 
 - [x] Beloved
