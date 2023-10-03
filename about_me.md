@@ -12,6 +12,6 @@ I earned my Bachelors in Physics from Columbia University, where I was a [4-year
 
 I am passionate about combining my technical skills with my love for sports, and am interested in materials development for sportswear and sports analytics. Projects in these areas can be found [here](https://amalyacox.github.io/projects/). 
 
-I proudly hail from the great state of New Jersey and am on a mission to [read](https://amalyacox.github.io/reading). all the words written by Toni Morrison and Octavia Butler.  
+I proudly hail from the great state of New Jersey and am on a mission to read everything and anything written by Toni Morrison and Octavia Butler. [Please Let Me Know If I am Missing Something!](https://amalyacox.github.io/reading)
 
 [jekyll-organization]: https://github.com/jekyll
