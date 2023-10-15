@@ -12,7 +12,7 @@ Next:
 Born to Run by Christopher McDougall
 
 Recently:
-Luster by Raven Leilani
+Home by Toni Morrison
 
 
 I am on a lifelong journey to read the entirety of works written by Toni Morrison and Octavia Butler. Please let me know if I am missing anything in these lists. 
