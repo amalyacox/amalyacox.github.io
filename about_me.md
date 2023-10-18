@@ -1,0 +1,17 @@
+---
+layout: page
+title: About Me
+permalink: /aboutme/
+---
+
+Hello! And welcome to my website. 
+
+I am a Materials Science & Engineering PhD candidate at Stanford University studying the thermal and excitonic properties of atomically thin or "two-dimensional" (2D) materials. At Stanford, I am a [Graduate Fellow](https://tomkat.stanford.edu/people/amalya-johnson) in the TomKat Center for Sustainable Energy. I am a recent recipient of a US Department of Energy Office of Science [Graduate Student Research Award](https://science.osti.gov/wdts/scgsr), and currently conduct my doctoral research at the [Molecular Foundry](https://foundry.lbl.gov/) at Lawrence Berkeley National Laboratory. Find more details on my research [here](https://amalyacox.github.io/research/), and my publications [here](https://amalyacox.github.io/publications/).  
+
+I earned my Bachelors in Physics from Columbia University, where I was a [4-year starter](https://www.columbiaspectator.com/sports/2019/11/12/one-of-the-best-players-in-the-history-of-this-program-amalya-johnson-ends-a-career-filled-with-many-accolades-and-even-more-memories/) and senior captain of the Women's Soccer Team. These days, I spend my saturdays watching NCAA Women's Soccer, the NWSL, the EPL, or [LaLiga](https://upload.wikimedia.org/wikipedia/commons/f/f3/Mes_que_un_club-FC_Barcelona.JPG), and run [a lot](https://amalyacox.github.io/running/)*. 
+
+I am passionate about combining my technical skills with my love for sports, and am interested in materials development for sportswear and sports analytics. Projects in these areas and beyond can be found [here](https://amalyacox.github.io/projects/). 
+
+I proudly hail from the great state of New Jersey and am on a mission to read everything and anything written by Toni Morrison and Octavia Butler. [Please Let Me Know If I am Missing Something!](https://amalyacox.github.io/reading)
+
+[jekyll-organization]: https://github.com/jekyll
