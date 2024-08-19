@@ -5,8 +5,7 @@ permalink: /projects/
 ---
 
 #### Data Management and Analysis of Scientific Data 
-
-#### Identifying common materials in popular footwear 
+My research requires large-scale data analysis and modeling. I am working on a project synthesizing the analysis techniques and data management within my PhD. 
 
 #### Predicting Human Activity Data 
 This project was the final project for Stanford STATS 202: Data Mining and Analysis. Working with [Shuxian Nian](https://www.linkedin.com/in/shuxian-nian/), we used smartphone sensor data to predict different human activities. We used a support vector machine to build our final prediction model, tuning the cost parameter with 10-fold cross validation. Ultimately we obtained a 94% success rate for predicting human activity from test sensor data. More details on the data and modeling can be found in the [github repo](https://github.com/amalyacox/PredictHumanActivity). 
