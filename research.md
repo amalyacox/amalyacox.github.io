@@ -13,5 +13,9 @@ Recently, Two-Dimensional (2D) materials such as monolayer transition metal dich
 
 I was awarded a [DOE Office of Science Graduate Student Research Award](https://science.osti.gov/wdts/scgsr) to conduct part of this research at the Molecular Foundry at Lawrence Berkeley National Laboratory from July to September 2023, working with Dr. Archana Raja. I was awarded additional funding to continue this project from the [Stanford TomKat Center for Sustainable Energy](https://tomkat.stanford.edu/people/amalya-johnson). 
 
+This paper is under preparation. 
+
 ### Ultrafast Electron Diffraction at SLAC National Laboratory 
 Using ultrafast electron diffraction, I worked with a team of scientists at SLAC National Laboratory and Stanford to study thermal transport between monolayers in a multilayer stack. I fabricated large-area (mm-scale) monolayer materials and created heterobilayer stacks of these materials, which consists of one monolayer such as MoS<sub>2</sub> on top of another, such as WS<sub>2</sub>. In this experiment we photoexcited the system and used ultrafast electron diffraction to understand the time-resolved lattice dynamics upon photoexcitation. In this technique we obtain a series of diffraction images as a function of delay time, which can be used to understand atomic motion after excitation. In this work we studied a range of different systems. The experiment produced over a TB of data in the form of diffraction images. For data analysis I built a python library to organize, model, and fit this data. 
+
+This work has been published [here](https://www.science.org/doi/10.1126/sciadv.adj8819). 
