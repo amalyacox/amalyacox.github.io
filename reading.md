@@ -32,4 +32,4 @@ I am on a lifelong journey to read the entirety of works written by Toni Morriso
 - [ ] Mind of My Mind
 - [ ] Clay's Ark
 - [ ] Survivor
-- [ ] Patternmaster
+- [x] Patternmaster
