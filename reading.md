@@ -4,17 +4,6 @@ title: Reading
 permalink: /reading/
 ---
 
-
-Currently: 
-Game of Edges: The Analytics Revolution and the Future of Professional Sports by Bruce Schoenfeld
-
-Next: 
-Born to Run by Christopher McDougall
-
-Recently:
-Home by Toni Morrison
-
-
 I am on a lifelong journey to read the entirety of works written by Toni Morrison and Octavia Butler. Please let me know if I am missing anything in these lists. 
 
 ### Toni Morrison
@@ -43,4 +32,4 @@ I am on a lifelong journey to read the entirety of works written by Toni Morriso
 - [ ] Mind of My Mind
 - [ ] Clay's Ark
 - [ ] Survivor
-- [ ] Patternmaster
+- [x] Patternmaster

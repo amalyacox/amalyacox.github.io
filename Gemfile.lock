@@ -255,6 +255,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.8.0)
   jekyll-feed (~> 0.6)
   jekyll-sass-converter (~> 1.5, >= 1.5.2)
+  jekyll-theme-cayman (~> 0.2.0)
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
