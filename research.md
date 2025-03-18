@@ -15,12 +15,12 @@ I was awarded a [DOE Office of Science Graduate Student Research Award](https://
 
 In this work, I have been developing a python package modeling nanoscale thermal transport in two-dimensional materials and thin films to be used for specific experimental techniques. The package will be published with the paper. 
 
-![]('/images/aniso_thermaltransport.png)
+![Anisotropic Thermal Transport]('/images/aniso_thermaltransport.png)
 
 ### Ultrafast Electron Diffraction at SLAC National Laboratory 
 Using ultrafast electron diffraction, I worked with a team of scientists at SLAC National Laboratory and Stanford to study thermal transport between monolayers in a multilayer stack. I fabricated large-area (mm-scale) monolayer materials and created heterobilayer stacks of these materials, which consists of one monolayer such as MoS<sub>2</sub> on top of another, such as WS<sub>2</sub>. In this experiment we photoexcited the system and used ultrafast electron diffraction to understand the time-resolved lattice dynamics upon photoexcitation. In this technique we obtain a series of diffraction images as a function of delay time, which can be used to understand atomic motion after photoexcitation. In this work we studied twisted TMDC heterostructures with type-II band alignments. The experiment produced over a TB of data in the form of diffraction images. For data analysis I built a python library to model the charge and heat transport in these heterostructures and simulate atomic reconstruction and diffraction of the layers. 
 
 This work has been published [here](https://www.science.org/doi/10.1126/sciadv.adj8819), where we found resonant photoexcitation of the MoS(e)2 layer generated an anisotropic phonon distrubution that speeds up interlayer phonon-phonon transport from the MoS(e)2 layer to the WSe(2) layer. 
 
-![]('/images/reconstruction_diffraction.png')
-![]('/images/7N_test.png')
+![Diffraction]('/images/reconstruction_diffraction.png')
+![Torsional Periodic Lattice Distortion Field Driving Reconstruction]('/images/7N_test.png')
