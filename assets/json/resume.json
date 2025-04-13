@@ -27,8 +27,8 @@
       "name": "Materials Science & Engineering, Stanford University",
       "position": "PhD Candidate, TomKat Graduate Fellow",
       "url": "https://profiles.stanford.edu/amalya-johnson?releaseVersion=11.1.0",
-      "startDate": "2020",
-      "endDate": "2025",
+      "startDate": "09-01-2020",
+      "endDate": "09-01-2025",
       "summary": "PhD Candidate in Fang Liu Lab, focusing on nanoscale thermal transport and ultrafast lattice dynamics of transition metal dichalcogenide monolayers and heterostructures.",
       "highlights": [""]
     },
@@ -36,8 +36,8 @@
       "name": "Toyota Research Institute",
       "position": "Accelerated Materials Design & Discovery Research Intern",
       "url": "https://www.tri.global/materials-discovery",
-      "startDate": "06-2024",
-      "endDate": "08-2024",
+      "startDate": "06-01-2024",
+      "endDate": "09-01-2024",
       "summary": "Developed software to automatically characterize materials properties from spectral data using interpretable machine learning models.",
       "highlights": [""]
     }
@@ -49,8 +49,8 @@
       "url": "https://profiles.stanford.edu/amalya-johnson?releaseVersion=11.1.0",
       "area": "Materials Science",
       "studyType": "PhD",
-      "startDate": "2020",
-      "endDate": "2025",
+      "startDate": "09-01-2020",
+      "endDate": "09-01-2025",
       "courses": ["Applied Quantum Mechanics, Data Science & Machine Learning Approaches in Chemical and Materials Engineering, Computational Materials Science at the Atomic Scale, Data Mining & Analysis"]
     }
   ],

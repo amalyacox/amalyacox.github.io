@@ -193,7 +193,7 @@ exclude:
   - vendor
   - _pages/teaching.md
   - _pages/books.md 
-  - _books/*
+  - _books/the_godfather.md
   - _pages/dropdown.md
 keep_files:
   - CNAME
