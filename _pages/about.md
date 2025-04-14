@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 154</p>
+    <p>Room 154 </p>
     <p>337 Campus Drive</p>
     <p>Stanford, CA 94305</p>
 
