@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 154 </p>
-    <p>337 Campus Drive</p>
-    <p>Stanford, CA 94305</p>
+    <p>Toyota Research Institute </p>
+    <p>4440 El Camino Real</p>
+    <p>Los Altos, CA 94022</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
