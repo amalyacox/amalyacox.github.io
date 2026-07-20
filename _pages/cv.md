@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/AmalyaJohnson_CV.pdf
+permalink: /assets/pdf/AmalyaJohnsonResume.pdf
 title: cv
 nav: true
 nav_order: 5
