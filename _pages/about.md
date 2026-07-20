@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate, Stanford University</a>. 
+subtitle: <a href='#'>Postdoctoral Researcher, Toyota Research Institute</a>. 
 
 profile:
   align: right
