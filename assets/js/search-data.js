@@ -35,7 +35,7 @@ ninja.data = [{
           description: "CV",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/AmalyaJohnson_CV.pdf";
+            window.location.href = "/assets/pdf/AmalyaJohnsonResume.pdf";
           },
         },{id: "post-publishing-my-website",
         
