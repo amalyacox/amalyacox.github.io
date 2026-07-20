@@ -62,6 +62,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-at-mrs",
           title: 'I presented at MRS!',
           description: "",
+          section: "News",},{id: "news-i-successfully-defended-my-phd-and-posted-about-it-on-linkedin-of-course",
+          title: 'I successfully defended my Phd! And posted about it on LinkedIn, of course....',
+          description: "",
+          section: "News",},{id: "news-i-started-at-tri-as-a-postdoctoral-researcher-on-the-accelerated-materials-design-amp-amp-discovery-team",
+          title: 'I started at TRI as a PostDoctoral researcher on the Accelerated Materials Design...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
