@@ -1,8 +1,10 @@
 github_users:
   - amalyacox
+  - AmalyaJohnson-TRI
 
 repo_description_lines_max: 2
 
 github_repos:
   - amalyacox/OTRaPy
   - amalyacox/PredictHumanActivity
+  - TRI-AMDD/spectrascope
