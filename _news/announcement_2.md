@@ -6,5 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I presented at CEBAS! 
-
+I presented at CEBAS!

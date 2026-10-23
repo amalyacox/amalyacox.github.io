@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started at TRI as a PostDoctoral researcher on the Accelerated Materials Design & Discovery Team. 
+I started at TRI as a PostDoctoral researcher on the Accelerated Materials Design & Discovery Team.

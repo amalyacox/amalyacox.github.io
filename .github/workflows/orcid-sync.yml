@@ -2,12 +2,12 @@ name: Sync ORCID to BibTeX
 
 on:
   schedule:
-    - cron: '0 3 * * 0' # weekly on Sunday at 03:00 UTC
+    - cron: "0 3 * * 0" # weekly on Sunday at 03:00 UTC
   workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/orcid-sync.yml'
-      - '_scripts/orcid_to_bib.py'
+      - ".github/workflows/orcid-sync.yml"
+      - "_scripts/orcid_to_bib.py"
 
 permissions:
   contents: write
@@ -24,8 +24,8 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
-          cache: 'pip'
+          python-version: "3.13"
+          cache: "pip"
 
       - name: Install dependencies
         run: |

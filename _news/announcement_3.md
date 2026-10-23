@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented at MRS! 
+I presented at MRS!
