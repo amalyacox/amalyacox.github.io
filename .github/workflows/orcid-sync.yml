@@ -1,0 +1,48 @@
+name: Sync ORCID to BibTeX
+
+on:
+  schedule:
+    - cron: '0 3 * * 0' # weekly on Sunday at 03:00 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/orcid-sync.yml'
+      - '_scripts/orcid_to_bib.py'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run ORCID sync
+        run: |
+          python _scripts/orcid_to_bib.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _bibliography/papers.bib
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync publications from ORCID"
+            git push
+          else
+            echo "No changes to commit"
+          fi
